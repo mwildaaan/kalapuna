@@ -1,7 +1,8 @@
 name: kalapuna
 description: Kalapuna Modules Generator GetX.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mwildaaan/kalapuna
+repository: https://github.com/mwildaaan/kalapuna
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
