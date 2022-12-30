@@ -15,7 +15,7 @@ init Kalapuna to your flutter project first
 flutter pub run kalapuna:init
 ```
 
-## Generate Feature
+## Generate Modules
 For Generate Modules use this command: 
 ```bash
 flutter pub run kalapuna:modules Example
